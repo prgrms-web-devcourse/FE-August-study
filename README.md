@@ -47,27 +47,37 @@
 
 ### 최민석
 
+- [week1]
+
 
 
 ### 정윤호
 
-- [[week1] 브라우저의 렌더링 과정](./[1기-B]정윤호/[week1]browserRenderingPath.md)
+- [week1] [브라우저의 렌더링 과정](./[1기-B]정윤호/[week1]browserRenderingPath.md)
 
 
 
 ### 장윤지
 
+- [week1]
+
 
 
 ### 조주영
+
+- [week1]
 
 
 
 ### 황상혁
 
+- [week1]
+
 
 
 ### 조민철
+
+- [week1]
 
 
 
@@ -77,9 +87,15 @@
 
 ### 최용록
 
+- [week1]
+
 
 
 ### 황재영
+
+- [week1]
+
+
 
 ---
 
