@@ -33,7 +33,7 @@
 
 ## 📌 운영체제
 
-- [메모리]()
+- [메모리](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Jieun%5DStudy/%5B1%EA%B8%B0-A%5D%EC%9D%B4%EC%84%A0%EC%9E%AC/%5Bweek1%5DMemory.md) @이선재
 
 <br>
 
