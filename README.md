@@ -4,12 +4,11 @@
 
 <br/>
 
-## 👨‍💻 팀원
+## 👨‍💻 스터디원
 
 | 이름   | GitHub                                         |
 | ------ | ---------------------------------------------- |
 | 문승희 | [@Muntari29](https://github.com/Muntari29)     |
-| 이미란 | [@MiranLeeeee](https://github.com/MiranLeeeee) |
 | 이선재 | [@Sunjae95](https://github.com/Sunjae95)       |
 | 이소정 | [@2sjeong918](https://github.com/2sjeong918)   |
 | 이소진 | [@krungy](https://github.com/krungy)           |
