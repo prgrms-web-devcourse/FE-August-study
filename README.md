@@ -27,7 +27,7 @@
 
 ## 📌 개발상식
 
-- [Generic]() @임경희
+- [Generic](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Jieun%5DStudy/%5B1%EA%B8%B0-B%5D%EC%9E%84%EA%B2%BD%ED%9D%AC/%5Bweek1%5D%20generic.md) @임경희
 - [정규표현식]()
 
 <br>
