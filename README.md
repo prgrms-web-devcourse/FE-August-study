@@ -3,7 +3,7 @@
   <img width="200px;" src="./src/images/prgms-logo.png"/>
 </p>
 <h2 align="middle">프로그래머스 웹 데브코스 Study</h2>
-<p align="middle">Today I Leared</p>
+<p align="middle">Study</p>
 <p align="middle">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
   <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
@@ -20,21 +20,16 @@
 
 <br/>
 
-## 📌 Study는 어떻게 하나요?
+<!-- 꾸미실 분들은 마음대로 꾸며주세요! -->
 
-프롱이와 백둥이가 모두 모인 Org입니다. Public으로 공개되어있습니다.    
-이 곳에서 한 달동안 함께 스터디하는 팀의 아티클을 공유해보아요!
+# 🚀 1주차 무민팀 스터디
 
-## 🚀 Branch 이름은 어떻게 하나요?
+<!-- * [제목](링크)하여 올려주세요 -->
 
-- 브랜치명은 **[WeekN/Ron]Study**로 통일해 주세요!
-- 팀 브랜치는 각 팀에 하나씩만 생성합니다~
-
-
-## 👀 구성은 어떻게 하나요?
-
-- 포스팅 링크가 아닌 md 파일로 올려주세요!
-- 각 팀의 브랜치는 readme를 개성에 맞게 꾸며주세요.
-- 우리 팀 브랜치에 나의 아티클을 commit합니다. 다른 팀 브랜치에 commit 하지 않도록 유의합니다.
-- 단, readme에 각 구성원의 commit을 link하여 readme를 통해 각 팀원들의 아티클을 한 번에 파악할 수 있게 해 주세요~
-
+1. OAuth의 동작원리[ 김찬민 ](https://github.com/rlacksals96/FE-August-study/blob/Week1/mooomeeen%5DStudy/OAuth_Mechanism.md)
+2. XSS 공격과 쿠키의 HttpOnly[ 김정운 ]()
+3. HTTP 개요[ 김영후 ]()
+4. JWT[ 김정호 ]()
+5. [ 김지영 ]() 
+6. [ 김지은 ]()
+7. [ 김사휘 ]()
