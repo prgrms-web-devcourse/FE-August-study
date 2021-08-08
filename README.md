@@ -1,40 +1,51 @@
-<br/>
-<p align="middle" >
-  <img width="200px;" src="./src/images/prgms-logo.png"/>
-</p>
-<h2 align="middle">프로그래머스 웹 데브코스 Study</h2>
-<p align="middle">Today I Leared</p>
-<p align="middle">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
-  <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
-</p>
+# 💻 지은팀의 CS 기초 스터디
+
+매주 각자 CS 기초와 관련된 하나의 주제를 공부하고 발표를 통해 공유합니다.
 
 <br/>
 
-# 💻 프로그래머스 웹 데브코스 Study
+## 👨‍💻 팀원
 
-> 올바로 작동하지 않는다고 걱정하지 마라.
-> 모든 게 잘 되었다면, 내가 할 일이 없어진다.
->
-> Mosher’s Law of Software Engineering
+| 이름   | GitHub                                         |
+| ------ | ---------------------------------------------- |
+| 문승희 | [@Muntari29](https://github.com/Muntari29)     |
+| 이미란 | [@MiranLeeeee](https://github.com/MiranLeeeee) |
+| 이선재 | [@Sunjae95](https://github.com/Sunjae95)       |
+| 이소정 | [@2sjeong918](https://github.com/2sjeong918)   |
+| 이소진 | [@krungy](https://github.com/krungy)           |
+| 이정미 | [@jm19952002](https://github.com/jm19952002)   |
+| 이지현 | [@Jihyeon228](https://github.com/Jihyeon228)   |
+| 임경희 | [@limkhl](https://github.com/limkhl)           |
 
 <br/>
 
-## 📌 Study는 어떻게 하나요?
+# 📝 Table of Contents
 
-프롱이와 백둥이가 모두 모인 Org입니다. Public으로 공개되어있습니다.    
-이 곳에서 한 달동안 함께 스터디하는 팀의 아티클을 공유해보아요!
+[목차 참고](https://github.com/gyoogle/tech-interview-for-developer/blob/master/README.md)
 
-## 🚀 Branch 이름은 어떻게 하나요?
+<br>
 
-- 브랜치명은 **[WeekN/Ron]Study**로 통일해 주세요!
-- 팀 브랜치는 각 팀에 하나씩만 생성합니다~
+## 📌 개발상식
 
+- [Generic]() @임경희
+- [정규표현식]()
 
-## 👀 구성은 어떻게 하나요?
+<br>
 
-- 포스팅 링크가 아닌 md 파일로 올려주세요!
-- 각 팀의 브랜치는 readme를 개성에 맞게 꾸며주세요.
-- 우리 팀 브랜치에 나의 아티클을 commit합니다. 다른 팀 브랜치에 commit 하지 않도록 유의합니다.
-- 단, readme에 각 구성원의 commit을 link하여 readme를 통해 각 팀원들의 아티클을 한 번에 파악할 수 있게 해 주세요~
+## 📌 운영체제
 
+- [메모리]()
+
+<br>
+
+## 📌 네트워크
+
+- [네트워크-애플리케이션 계층]()
+- [HTTP]()
+
+<br>
+
+## 📌 Web
+
+- [브라우저의 작동 원리]()
+- [DOM(Document Object Model)]()
