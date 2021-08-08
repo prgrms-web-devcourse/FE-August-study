@@ -33,3 +33,4 @@
 5. 클로저 [ 종현 ]
 6. 실행 컨텍스트 [ 정희 ]
 7. 동기와 비동기 [영훈]
+8. 클로저 [[ 동진 ](https://github.com/rkdvnfma90/FE-August-study/blob/Week1/Ron%5DStudy/%5B1기-B%5D%20강동진_1주차%20스터디/1주차-클로저.md)]
