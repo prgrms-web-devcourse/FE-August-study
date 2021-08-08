@@ -27,7 +27,7 @@
 <!-- * [제목](링크)하여 올려주세요 -->
 
 1. OAuth의 동작원리[ 김찬민 ](https://github.com/rlacksals96/FE-August-study/blob/Week1/mooomeeen%5DStudy/OAuth_Mechanism.md)
-2. XSS 공격과 쿠키의 HttpOnly[ 김정운 ]()
+2. 🎸김정운 [XSS 공격과 쿠키의 HttpOnly](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-B%5D%EA%B9%80%EC%A0%95%EC%9A%B4/xssAttack/xssAttack.md)
 3. HTTP 개요[ 김영후 ]()
 4. JWT[ 김정호 ]()
 5. OSI 7계층[ 김지영 ]() 
