@@ -13,8 +13,8 @@
 
 # 💻 프로그래머스 웹 데브코스 Study
 
-> 함께한다는 것은 시작이고 서로 협동하면 진보이며 같이 일하면 성공이다.<br>
-> (Coming together is a beginnig. Keeping together is a progress. Working together is a success) <br>
+> 같이한다는 것은 시작에 불과하다. 서로 협동하는 것이 진보이며 함께 일하는 것은 성공이다.<br>
+> Coming together is a beginnig. Keeping together is a progress. Working together is a success <br>
 >
 > Henry Ford
 
