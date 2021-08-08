@@ -3,7 +3,7 @@
   <img width="200px;" src="./src/images/prgms-logo.png"/>
 </p>
 <h2 align="middle">프로그래머스 웹 데브코스 Study</h2>
-<p align="middle">Today I Leared</p>
+<p align="middle">Study</p>
 <p align="middle">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
   <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
@@ -20,21 +20,19 @@
 
 <br/>
 
-## 📌 Study는 어떻게 하나요?
+<!-- 꾸미실 분들은 마음대로 꾸며주세요! -->
 
-프롱이와 백둥이가 모두 모인 Org입니다. Public으로 공개되어있습니다.    
-이 곳에서 한 달동안 함께 스터디하는 팀의 아티클을 공유해보아요!
+# 🚀 1주차 론팀 스터디
 
-## 🚀 Branch 이름은 어떻게 하나요?
+<!-- * week1 폴더 아래 번호_제목.md로 넣어주세요. ex) 2_execution_context.md-->
+<!-- * 자신의 아티클을 작성할 때는, 제가 테스트용로 넣어놓은 week1/번호_제목.md는 반드시 지우시고 커밋하여 주시기를 바랍니다. -->
 
-- 브랜치명은 **[WeekN/Ron]Study**로 통일해 주세요!
-- 팀 브랜치는 각 팀에 하나씩만 생성합니다~
+<!-- * [제목](링크)하여 올려주세요 -->
 
-
-## 👀 구성은 어떻게 하나요?
-
-- 포스팅 링크가 아닌 md 파일로 올려주세요!
-- 각 팀의 브랜치는 readme를 개성에 맞게 꾸며주세요.
-- 우리 팀 브랜치에 나의 아티클을 commit합니다. 다른 팀 브랜치에 commit 하지 않도록 유의합니다.
-- 단, readme에 각 구성원의 commit을 link하여 readme를 통해 각 팀원들의 아티클을 한 번에 파악할 수 있게 해 주세요~
-
+1. 브라우저 렌더링[ 푸름 ]
+2. DOM 조작 [ 민정 ]
+3. 메모리 모델 [ 동현 ]
+4. 함수와 스코프 [ 다슬 ]
+5. 클로저 [ 종현 ]
+6. 실행 컨텍스트 [ 정희 ]
+7. 동기와 비동기 [영훈]
