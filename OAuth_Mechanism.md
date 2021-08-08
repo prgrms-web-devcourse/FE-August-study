@@ -80,4 +80,5 @@ _해당 내용은 '생활코딩'의 강의와 'RFC6749'의 내용을 참고하�
 
 ### 참고자료
 생활코딩: [WEB2 - OAuth 2.0](https://opentutorials.org/course/3405)
+
 RFC6749: [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749)
