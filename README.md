@@ -28,7 +28,7 @@
 4. 함수와 스코프 [ 다슬 ]
 5. 클로저 [ 종현 ]
 6. 실행 컨텍스트 [ 정희 ]
-7. 동기와 비동기 [영훈]
+7. 동기와 비동기 [ 영훈 ]
 
 ## 김다슬
 
@@ -39,3 +39,8 @@
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B0%95%ED%91%B8%EB%A6%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
 - 1주차: [브라우저 렌더링](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B0%95%ED%91%B8%EB%A6%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81.md)
+
+## 고종현
+
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
+- 1주차: [클로저](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
