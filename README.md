@@ -53,3 +53,8 @@
   - [커밋 링크](https://github.com/prgrms-web-devcourse/FE-August-study/commit/56b88e37642af6aa07394b78c23d52228c8e1ddb)
     <br>
   - [실행\_컨텍스트.md](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%EA%B6%8C%EC%A0%95%ED%9D%AC_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%EC%8B%A4%ED%96%89_%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
+
+## 강동진
+
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1기-B%5D%20강동진_1주차%20스터디)
+- 1주차: [클로저](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1기-B%5D%20강동진_1주차%20스터디/1주차-클로저.md)
