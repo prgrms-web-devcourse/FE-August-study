@@ -3,7 +3,7 @@
   <img width="200px;" src="./src/images/prgms-logo.png"/>
 </p>
 <h2 align="middle">프로그래머스 웹 데브코스 Study</h2>
-<p align="middle">Today I Leared</p>
+<p align="middle">Auuguust Study</p>
 <p align="middle">
   <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
   <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
@@ -13,23 +13,22 @@
 
 # 💻 프로그래머스 웹 데브코스 Study
 
-> 올바로 작동하지 않는다고 걱정하지 마라.
-> 모든 게 잘 되었다면, 내가 할 일이 없어진다.
+> 함께한다는 것은 시작이고 서로 협동하면 진보이며 같이 일하면 성공이다.<br>
+> (Coming together is a beginnig. Keeping together is a progress. Working together is a success) <br>
 >
-> Mosher’s Law of Software Engineering
+> Henry Ford
 
 <br/>
 
 ## 📌 Study는 어떻게 하나요?
 
-프롱이와 백둥이가 모두 모인 Org입니다. Public으로 공개되어있습니다.    
+프롱이와 백둥이가 모두 모인 Org입니다. Public으로 공개되어있습니다.  
 이 곳에서 한 달동안 함께 스터디하는 팀의 아티클을 공유해보아요!
 
 ## 🚀 Branch 이름은 어떻게 하나요?
 
 - 브랜치명은 **[WeekN/Ron]Study**로 통일해 주세요!
 - 팀 브랜치는 각 팀에 하나씩만 생성합니다~
-
 
 ## 👀 구성은 어떻게 하나요?
 
@@ -38,3 +37,20 @@
 - 우리 팀 브랜치에 나의 아티클을 commit합니다. 다른 팀 브랜치에 commit 하지 않도록 유의합니다.
 - 단, readme에 각 구성원의 commit을 link하여 readme를 통해 각 팀원들의 아티클을 한 번에 파악할 수 있게 해 주세요~
 
+<br>
+
+# 발표 내용 모음
+
+## [Week1]
+
+| 이름   | 주제          | 설명                                 | 링크                                                                                                                                                                                        |
+| ------ | ------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 김태중 |               |                                      |
+| 김현석 | 실행 컨텍스트 | 자바스크립트 실행컨텍스트에 대한정리 | [링크](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/DalLi%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%ED%98%84%EC%84%9D_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94) |
+| 김형욱 |
+| 김홍중 |
+| 김희진 |
+| 나은찬 |
+| 도가영 |
+| 정명훈 |
+| 임효성 |
