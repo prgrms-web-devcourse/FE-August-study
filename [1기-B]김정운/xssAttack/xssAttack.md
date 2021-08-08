@@ -81,7 +81,7 @@
 
 - 간단하다. 바로 클라이언트 측에서 HTTP 통신외에는 Cookie에 접근이 불가능하도록 하는것. HttpOnly Attribute를 가진 쿠키는 클라이언트에서 JavaScript를 통해 접근이 금지된다.
 
-  ![http응답헤더들](./image/image1.png)
+  ![http응답헤더들](./image/image1.PNG)
 
   서버에서 전송되는 set-cookie. YSC,VISITOR_INFO01_LIVE등의 cookie들이 httponly 옵션을 지닌다.
 
