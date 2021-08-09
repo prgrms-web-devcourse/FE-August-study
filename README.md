@@ -64,5 +64,5 @@
 
 ## 🐳 배준형
 
-- [디렉토리]([개인 프로젝트 주소](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%B0%EC%A4%80%ED%98%95))
-- 1주차: [콜백함수]([발표 readme주소](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%B0%EC%A4%80%ED%98%95/%5B1%EC%A3%BC%EC%B0%A8%5D%20%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98.md))
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%B0%EC%A4%80%ED%98%95)
+- 1주차: [콜백함수](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%B0%EC%A4%80%ED%98%95/%5B1%EC%A3%BC%EC%B0%A8%5D%20%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98.md)
