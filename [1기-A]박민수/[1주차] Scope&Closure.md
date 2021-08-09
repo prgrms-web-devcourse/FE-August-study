@@ -14,6 +14,7 @@ scope가 chain처럼 엮겨있다 해서 생긴 명칭이다.
 ## Quiz
 
 다음의 출력값을 생각해보세요.
+
 ![](https://i.imgur.com/SEqURrc.png)
 
 ![](https://i.imgur.com/ZXrUL1e.png)
@@ -49,6 +50,7 @@ closure는 함수가 선언된 환경의 scope를 기억하여
 ## Quiz2
 
 다음의 출력값을 생각해보세요.
+
 ![](https://i.imgur.com/Ctndgbc.png)
 
 설명 : outer함수를 시행시키면 return값으로 inner()함수를
