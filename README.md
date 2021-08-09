@@ -51,6 +51,6 @@
 | 김홍중 |
 | 김희진 |
 | 나은찬 |
-| 도가영 |
+| 도가영 | Web server와 WAS | Web Application을 실행하는 서버에 대한 정리 | [링크] (https://velog.io/@young18/Network-Web-server%EC%99%80-WAS)
 | 정명훈 |
 | 임효성 |
