@@ -29,8 +29,8 @@
 
 ## 🦍박민수
 
-- [디렉토리]`(개인 프로젝트 주소)`
-- 1주차: [발표 제목]`(발표 readme주소)`
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EB%AF%BC%EC%88%98)
+- 1주차: [발표 제목](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EB%AF%BC%EC%88%98/%5B1%EC%A3%BC%EC%B0%A8%5D%20Scope%26Closure.md)
 
 ## 박상우
 
