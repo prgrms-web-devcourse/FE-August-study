@@ -32,4 +32,4 @@
 4. JWT[ 김정호 ]()
 5. OSI 7계층[ 김지영 ]() 
 6. [ 김지은 ]()
-7. [ 김사휘 ]()
+7. [브라우저 렌더링](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-B%5D%EA%B9%80%EC%82%AC%ED%9C%98/browser_rendering.md) | 김사휘
