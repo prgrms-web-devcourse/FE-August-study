@@ -1,13 +1,13 @@
-<img width="550px;" alt="Img1" src="./Img/img1.jpeg"/>
+<img width="550px;" alt="http" src="./Img/img1.jpeg"/>
 <p><code>Http</code>는 어떻게 클라이언트(웹 브라우저)와 서버(웹 서버)가 통신을 하는지 명확한 규칙을 제공합니다.</p><br/>
 
-<img width="550px;" alt="Img1" src="./Img/img2.jpeg"/>
+<img width="550px;" alt="flow1" src="./Img/img2.jpeg"/>
 <p>웹 브라우저를 열고 www.naver.com 을 입력했을 때, 컴퓨터는 DNS 서버에 접속합니다.<br/> 
 DNS 서버는 도메인 이름에 대응하는 IP 주소를 받아서 네이버의 서버에 웹 페이지의 내용을 <code>요청</code>합니다.<br/>
 서버는 그 요청에 <code>응답</code>하기 위해 요청을 <code>해석</code>하고, 요청된 페이지를 클라이언트에게 돌려보냅니다.<br/>
 웹 브라우저는 본문에 써있는대로 화면에 그려줍니다(렌더링).</p><br/>
 
-<img width="550px;" alt="Img1" src="./Img/img3.jpeg"/>
+<img width="550px;" alt="url" src="./Img/img3.jpeg"/>
 <p><code>URL</code>은 스키마, 호스트네임 또는 ip주소와 포트, 리소스 경로 등의 정보를 갖고있습니다.<br/>
 <u>Scheme</u>는 응용 프로그램과 서버가 통신하는 전송 프로토콜을 나타냅니다.<br/>
 *전송프로토콜: 어떤 방식으로 자원에 접근할 것인가 하는 약속 규칙*<br/>
@@ -23,15 +23,15 @@ DNS 서버는 도메인 이름에 대응하는 IP 주소를 받아서 네이버�
 *0 ~ 1023: 잘 알려진 포트, 사용하지 않는 것이 좋음*</p><br/>
 
 
-<img width="550px;" alt="Img4" src="./Img/img4.jpeg"/>
+<img width="550px;" alt="flow2" src="./Img/img4.jpeg"/>
 <p><code>웹 브라우저</code>가 HTTP 메시지를 생성하고<br/>
 <code>소켓 라이브러리</code>를 통해 TCP/IP로 데이터 전달<br/>
 <code>TCP/IP</code>에서 패킷을 생성하고 출발지.도착지 IP,PORT를 담아서<br/>
 Lan 또는 AP를 통해 <code>라우터</code>를 거쳐 서버에 도착합니다.<br/>
 <code>서버</code>는 요청메시지를 해석하고 응답 메시지와 요청된 데이터를 클라이언트에 전송합니다</p><br/>
 
-<img width="400px;" alt="Img1" src="./Img/img7.jpeg"/>
-<img width="400px;" alt="Img1" src="./Img/img8.jpeg"/>
+<img width="400px;" alt="ip1" src="./Img/img7.jpeg"/>
+<img width="400px;" alt="ip2" src="./Img/img8.jpeg"/>
 
 <p><code>IP 인터넷 프로토콜</code>는 인터넷에 연결되어 있는 모든 장치들(컴퓨터, 서버 장비, 스마트폰 등)을 식별할 수 있도록 각각의 장비에게 부여되는 고유 주소입니다.<br/>
 <code>라우터</code>는 한 컴퓨터에서 다른 컴퓨터로 정보를 보내는 것을 도와주는 장치입니다. 송신 장치에서 목적지까지 가기 위해 데이터는 보통 여러 라우터들을 거쳐가야 합니다.<br/>
@@ -43,7 +43,7 @@ IP의 한계점은 다음과 같습니다.
 3. 같은 IP를 사용하는데, 통신하는 애플리케이션이 둘 이상인 경우   
 e.g. 게임하면서 인터넷 검색하면서 음악들을 때, 같은 IP주소이기 때문에 구분하기 어렵다.</p><br/>
 
-<img width="500px;" alt="Img1" src="./Img/img9.jpeg"/>
+<img width="500px;" alt="tcp" src="./Img/img9.jpeg"/>
 <p><code>TCP(Transmission Control Protocol) 전송제어프로토콜</code>는 데이터 스트림을 교환하게 해주는 중요한 네트워크 프로토콜입니다.<br/>
 에러가 없이 패킷이 신뢰할 수 있게 전달 되었는지 보증해주기 때문에 IP의 한계점을 보완해줍니다.<br/>
 
@@ -55,13 +55,13 @@ e.g. 게임하면서 인터넷 검색하면서 음악들을 때, 같은 IP주소
    3. PORT 할당: 같은 컴퓨터 내에서 여러 프로그램을 사용할 때, 이를 구분해주는 것.<br/>
    예를 들어, SMTP(이메일)는 25번 포트를 사용하지만 HTTP(일반 웹 검색)는 80번 포트를 사용합니다.</p><br/>
 
-<img width="550px;" alt="Img1" src="./Img/img6.jpeg"/>
+<img width="550px;" alt="tcp/ip" src="./Img/img6.jpeg"/>
 <p><code>TCP/IP 요약</code><br>
 인터넷이 통신하기 위한 과정을 요약하면, 인터넷을 통해 데이터를 받기 위해서 우선 데이터가 더 작은 패킷들로 분해되어야 하고,<br/>
 TCP는 각 패킷에 포트 번호와 패킷 번호를 매깁니다. IP가 패킷의 목적지를 알려주면 라우터들을 통해 데이터가 전송됩니다.<br/>
 라우터들은 패킷을 목적지로 보내줄 것입니다.</p><br/>
 
-<img width="550px;" alt="Img1" src="./Img/img5.jpeg"/>
+<img width="550px;" alt="message" src="./Img/img5.jpeg"/>
 <p>요청메시지와 응답메시지의 폼은 크게 다르지 않습니다.<br/>
 메시지는 스타트라인, 헤더, 공백, 바디로 구성되어있습니다.<br/><br/>
 
