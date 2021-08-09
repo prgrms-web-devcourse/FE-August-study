@@ -42,10 +42,10 @@
 - [디렉토리]`(개인 프로젝트 주소)`
 - 1주차: [발표 제목]`(발표 readme주소)`
 
-## 박송이
+## 🍄박송이
 
-- [디렉토리]`(개인 프로젝트 주소)`
-- 1주차: [발표 제목]`(발표 readme주소)`
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%95%EC%86%A1%EC%9D%B4)
+- 1주차: [브라우저 렌더링 과정](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%95%EC%86%A1%EC%9D%B4/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81%EA%B3%BC%EC%A0%95.md)
 
 ## 박예진
 
