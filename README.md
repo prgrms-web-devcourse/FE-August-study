@@ -25,10 +25,10 @@
 # 🚀 1주차 무민팀 스터디
 
 <!-- * [제목](링크)하여 올려주세요 -->
-1. 김찬민 [OAuth의 동작원리](https://github.com/rlacksals96/FE-August-study/blob/Week1/mooomeeen%5DStudy/OAuth_Mechanism.md) 
+1. [OAuth의 동작원리](https://github.com/rlacksals96/FE-August-study/blob/Week1/mooomeeen%5DStudy/OAuth_Mechanism.md) | 김찬민 
 2. [XSS 공격과 쿠키의 HttpOnly](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-B%5D%EA%B9%80%EC%A0%95%EC%9A%B4/xssAttack/xssAttack.md) | 🎸김정운
-3. HTTP 개요[ 김영후 ]()
-4. JWT[ 김정호 ]()
+3. [HTTP 개요]() | 김영후
+4. [JWT]() | 김정호
 5. [OSI 7계층]([1기-A]김지영/1week/OSI-7-layers.md) | 김지영 
-6. [ 김지은 ]()
+6. [Blocking&Non-blocking I/O]() | 김지은
 7. [브라우저 렌더링](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-B%5D%EA%B9%80%EC%82%AC%ED%9C%98/browser_rendering.md) | 김사휘
