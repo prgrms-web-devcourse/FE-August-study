@@ -25,10 +25,10 @@
 # 🚀 1주차 무민팀 스터디
 
 <!-- * [제목](링크)하여 올려주세요 -->
-1. [OAuth의 동작원리](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-A%5D%EA%B9%80%EC%B0%AC%EB%AF%BC/OAuth_Mechanism.md) | 김찬민 
-2. [XSS 공격과 쿠키의 HttpOnly](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-B%5D%EA%B9%80%EC%A0%95%EC%9A%B4/xssAttack/xssAttack.md) | 🎸김정운
-3. [HTTP 개요](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-A%5D%EA%B9%80%EC%98%81%ED%9B%84/HTTP%20introduction/HTTP.md) | 김영후
-4. [JWT](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-B%5D%EA%B9%80%EC%A0%95%ED%98%B8/JWT.md) | 김정호
+1. [OAuth의 동작원리]([1기-A]김찬민/OAuth_Mechanism.md) | 김찬민 
+2. [XSS 공격과 쿠키의 HttpOnly]([1기-B]김정운/xssAttack/xssAttack.md) | 🎸김정운
+3. [HTTP 개요][1기-A]김영후/HTTP introduction/HTTP.md) | 김영후
+4. [JWT]([1기-B]김정호/JWT.md) | 김정호
 5. [OSI 7계층]([1기-A]김지영/1week/OSI-7-layers.md) | 김지영 
 6. [Blocking&Non-blocking I/O]() | 김지은
 7. [브라우저 렌더링]([1기-B]김사휘/browser_rendering.md) | 김사휘
