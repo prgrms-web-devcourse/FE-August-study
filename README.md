@@ -22,10 +22,10 @@
 
 # 📖 21년 8월 개발기초 스터디
 
-## 박규란
+## 🍊박규란
 
-- [디렉토리]`(개인 프로젝트 주소)`
-- 1주차: [발표 제목]`(발표 readme주소)`
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%95%EA%B7%9C%EB%9E%80)
+- 1주차: [정규표현식](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%95%EA%B7%9C%EB%9E%80/%5B1%EC%A3%BC%EC%B0%A8%5D%20%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
 
 ## 🦍박민수
 
