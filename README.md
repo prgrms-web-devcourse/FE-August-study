@@ -40,7 +40,7 @@
 ## 📌 네트워크
 
 - [네트워크-애플리케이션 계층]()
-- [HTTP]()
+- [HTTP](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Jieun%5DStudy/%5B1기-A%5D이지현/%5Bweek1%5DHttp.md) @이지현
 
 <br>
 
