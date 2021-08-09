@@ -20,7 +20,7 @@
 
 <br/>
 
-# 🚀 21년 8월 론팀 개발 기초 스터디
+# 🚀 21년 8월 론팀 개발 기초 1주차 스터디
 
 1. 브라우저 렌더링[ 푸름 ]
 2. DOM 조작 [ 민정 ]
@@ -64,3 +64,8 @@
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%AF%BC%EC%A0%95_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
 - 1주차: [클로저](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%AF%BC%EC%A0%95_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/DOM%EC%A1%B0%EC%9E%91.md)
+
+## 고영훈
+
+- [디렉토리]()
+- 1주차: [클로저]()
