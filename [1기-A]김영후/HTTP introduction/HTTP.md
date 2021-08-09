@@ -81,6 +81,7 @@
 - 브라우저는 시각적으로 풍부한 웹페이지를 가져올 때 대량의 HTTP 트랜잭션을 수행
 - 페이지 레이아웃을 서술하는 HTML ‘뼈대’를 한 번의 트랜잭션(적색박스)으로 가져온 뒤, 첨부된 이미지, 그래픽 조각, 자바 애플릿 등을 가져오기 위해 추가로 HTTP 트랜잭션 수행. 
 - 리소스들은 서로 다른 서버에 위치할 수 있음
+
 ![그림4](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-A%5D%EA%B9%80%EC%98%81%ED%9B%84/HTTP%20introduction/image/image4.png)
 
 # HTTP 메시지
