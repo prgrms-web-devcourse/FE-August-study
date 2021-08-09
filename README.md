@@ -72,5 +72,5 @@
 
 ## 고영훈
 
-- [디렉토리]()
-- 1주차: [비동기와 동기]()
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B3%A0%EC%98%81%ED%9B%88_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
+- 1주차: [비동기와 동기](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B3%A0%EC%98%81%ED%9B%88_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/1%EC%A3%BC%EC%B0%A8_%EB%8F%99%EA%B8%B0%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0.md)
