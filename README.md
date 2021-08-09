@@ -51,6 +51,6 @@
 | 김홍중 |
 | 김희진 |
 | 나은찬 |
-| 도가영 | Web server와 WAS | 웹 애플리케이션과 웹 서버에 대한 정리 | [링크](https://velog.io/@young18/Network-Web-server%EC%99%80-WAS)
+| 도가영 | Web server와 WAS | 웹 애플리케이션과 웹 서버에 대한 정리 | [링크](./[1기-A] 도가영_1주차 스터디/Web server와 WAS.md)
 | 정명훈 |
 | 임효성 |
