@@ -34,8 +34,8 @@
 
 ## 박상우
 
-- [디렉토리]`(https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%83%81%EC%9A%B0)`
-- 1주차: [실행 컨텍스트는 어떻게 코드를 관리할까?]`(https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%83%81%EC%9A%B0/%5B1%EC%A3%BC%EC%B0%A8%5D%20%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)`
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%83%81%EC%9A%B0)
+- 1주차: [실행 컨텍스트는 어떻게 코드를 관리할까?](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%83%81%EC%9A%B0/%5B1%EC%A3%BC%EC%B0%A8%5D%20%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 
 ## 박세림
 
