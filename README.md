@@ -31,4 +31,4 @@
 4. [JWT](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-B%5D%EA%B9%80%EC%A0%95%ED%98%B8/JWT.md) | 김정호
 5. [OSI 7계층]([1기-A]김지영/1week/OSI-7-layers.md) | 김지영 
 6. [Blocking&Non-blocking I/O]() | 김지은
-7. [브라우저 렌더링](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-B%5D%EA%B9%80%EC%82%AC%ED%9C%98/browser_rendering.md) | 김사휘
+7. [브라우저 렌더링]([1기-B]김사휘/browser_rendering.md) | 김사휘
