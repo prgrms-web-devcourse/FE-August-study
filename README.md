@@ -50,7 +50,7 @@
 | 김형욱 |
 | 김홍중 |
 | 김희진 |
-| 나은찬 |
+| 나은찬 |프로토타입| JavaScript 프로토타입에 대한 간단한 정리 | [링크](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/DalLi%5DStudy/%5B1%EA%B8%B0-A%5D%20%EB%82%98%EC%9D%80%EC%B0%AC_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
 | 도가영 | Web server와 WAS | 웹 애플리케이션과 웹 서버에 대한 정리 | [링크](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/DalLi%5DStudy/%5B1%EA%B8%B0-A%5D%20%EB%8F%84%EA%B0%80%EC%98%81_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/Web%20server%EC%99%80%20WAS.md)
 | 정명훈 |
-| 임효성 |
+| 임효성 | Javascript this | JS this에 대한 정리 | [링크](https://www.notion.so/hysoung/this-72101945de7d41b4a06a4d76c75c87a8)
