@@ -39,8 +39,8 @@
 
 ## 박세림
 
-- [디렉토리]`(개인 프로젝트 주소)`
-- 1주차: [발표 제목]`(발표 readme주소)`
+- [디렉토리]https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy
+- 1주차: [발표 제목]https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%95%EC%84%B8%EB%A6%BC/%5B1%EC%A3%BC%EC%B0%A8%5D%20Prototype.md
 
 ## 🍄박송이
 
