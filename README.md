@@ -44,5 +44,5 @@
 
 ## 📌 Web
 
-- [브라우저의 작동 원리]()
+- [브라우저의 작동 원리]([1기-B]이소정/study01_sojeong.md)
 - [DOM(Document Object Model)](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Jieun%5DStudy/%5B1%E1%84%80%E1%85%B5-A%5D%E1%84%86%E1%85%AE%E1%86%AB%E1%84%89%E1%85%B3%E1%86%BC%E1%84%92%E1%85%B4/%5Bweek1%5DDOM.md) @문승희
