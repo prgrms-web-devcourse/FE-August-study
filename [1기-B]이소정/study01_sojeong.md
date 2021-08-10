@@ -28,13 +28,13 @@
 
 # 브라우저의 기본 구조
 
-![브라우저 기본 구조 이미지](./images/1_01.png)
+<img src="./images/1_01.png" width="800px">
 
 ### 1. 사용자 인터페이스
 
 - 주소 표시줄, 이전/다음 버튼, 북마크 메뉴 등. 요청한 페이지를 보여주는 창을 제외한 나머지 모든 부분
 
-![사용자 인터페이스](./images/1_02.png)
+<img src="./images/1_02.png" width="800px">
 
 사용자 인터페이스
 
@@ -69,7 +69,7 @@
 
 ### 브라우저 동작 과정
 
-![브라우저 동작 과정](./images/1_03.png)
+<img src="./images/1_03.png" width="800px">
 
 1. 사용자가 사용자 인터페이스(주소표시줄)에 URI를 입력하고 브라우저 엔진에 전달한다.
 2. 브라우저 엔진은 자료 저장소에서 URI에 해당하는 자료를 찾고,
@@ -97,11 +97,10 @@
 
 ### 웹킷 렌더링 엔진의 동작과정 (위 브라우저 동작 과정의 4~10번에 해당)
 
-![렌더링 동작과정](./images/1_04.png)
-
+<img src="./images/1_04.png" width="800px">
 ### **1. HTML을 parsing 하여 DOM tree 를 생성**
 
-![돔](./images/1_05.png)
+<img src="./images/1_05.png" width="800px">
 
 각 태그가 실행됨과 동시에 노드가 되어 돔 트리를 형성
 
@@ -120,11 +119,11 @@ DOM tree를 구축하는 이유
 
 ### **2. CSS(style sheets)를 parsing 하여 CSSOM 트리(스타일 규칙)를 생성**
 
-![cssom](./images/1_06.png)
+<img src="./images/1_06.png" width="800px">
 
 ### **3. DOM tree를 생성하는 동시에, 이미 생성된 DOM tree 와 스타일 규칙(CSSOM)을 Attachment 한다.**
 
-![render_tree](./images/1_07.png)
+<img src="./images/1_07.png" width="800px">
 
 - DOM tree를 구성하는 하나의 DOM node 는 attach라는 method를 가진다. 
 - 새로운 DOM node가 추가되면 attach가 호출되어 스타일 규칙과 attachment하여 render object를 생성한다
