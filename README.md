@@ -29,7 +29,7 @@
 2. [XSS 공격과 쿠키의 HttpOnly]([1기-B]김정운/xssAttack/xssAttack.md) | 🎸김정운
 3. [HTTP 개요](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-A%5D%EA%B9%80%EC%98%81%ED%9B%84/HTTP%20introduction/HTTP.md) | 김영후
 4. [JWT]([1기-B]김정호/JWT.md) | 김정호
-5. [OSI 7계층]([1기-A]김지영/1week/OSI-7-layers.md) | 김지영 
+5. [OSI 7계층]([1기-A]김지영/2week/OSI-7-layers.md) | 김지영 
 6. [Blocking&Non-blocking I/O]([1기-A]김지은/Blocking&Non-Blocking.md) | 김지은
 7. [브라우저 렌더링]([1기-B]김사휘/browser_rendering.md) | 김사휘
 
