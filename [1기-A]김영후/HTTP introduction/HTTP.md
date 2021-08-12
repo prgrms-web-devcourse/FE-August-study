@@ -14,7 +14,7 @@
 
 # 웹 클라이언트와 서버의 통신
 - 주소창에 http://www.oreily.com/index.html 입력시,
-  ![](./image/image1.PNG)
+  ![그림1](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-A%5D%EA%B9%80%EC%98%81%ED%9B%84/HTTP%20introduction/image/image1.png)
 
 
 # 리소스
@@ -24,7 +24,7 @@
 # 미디어 타입(MIME, Multipurpose Internet Mail Extension)
 - 웹 서버는 모든 HTTP 객체 데이터에 MIME 타입을 붙임
 - 웹 브라우저는 MIME 타입을 통해서 다룰 수 있는 객체인지 확인
-  ![](./image/image2.PNG)
+  ![그림2](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-A%5D%EA%B9%80%EC%98%81%ED%9B%84/HTTP%20introduction/image/image2.png)
 
 # URI(Uniform Resource Identifier)
 - 웹 서버의 웹 리소스는 URI를 가짐. = 클라이언트가 지목 가능
@@ -42,7 +42,7 @@
 - http://www.oreily.com/index.html
 - http://www.yahoo.com/images/logo.gif
 - http://www.joes-hardware.com/inventory-check.cgi?item=12731
-![](./image/image3.PNG)
+![그림3](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-A%5D%EA%B9%80%EC%98%81%ED%9B%84/HTTP%20introduction/image/image3.png)
 > 1.  scheme으로, 리소스에 접근하기 위한 프로토콜
 > 2. 서버의 인터넷 주소(www.joes-hardware.com)
 > 3. 웹 서버의 리소스(/specials/saw-blade.gif)
@@ -81,12 +81,13 @@
 - 브라우저는 시각적으로 풍부한 웹페이지를 가져올 때 대량의 HTTP 트랜잭션을 수행
 - 페이지 레이아웃을 서술하는 HTML ‘뼈대’를 한 번의 트랜잭션(적색박스)으로 가져온 뒤, 첨부된 이미지, 그래픽 조각, 자바 애플릿 등을 가져오기 위해 추가로 HTTP 트랜잭션 수행. 
 - 리소스들은 서로 다른 서버에 위치할 수 있음
-![](./image/image4.PNG)
+
+![그림4](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-A%5D%EA%B9%80%EC%98%81%ED%9B%84/HTTP%20introduction/image/image4.png)
 
 # HTTP 메시지
 - 줄 단위의 문자열로, 일반 텍스트이기 때문에 사람이 읽고 쓰기 쉬움
 - HTTP 요청 메시지, HTTP 응답 메시지로 구성
-![](./image/image5.PNG)
+![그림5](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/mooomeeen%5DStudy/%5B1%EA%B8%B0-A%5D%EA%B9%80%EC%98%81%ED%9B%84/HTTP%20introduction/image/image5.png)
 > 1. 요청줄: HTTP메서드, 대상(URL), HTTP버전
 > 2. 응답줄: HTTP버전, 상태코드
 > 3. 헤더: 요청 또는 응답에 대한 부가적인 정보, 헤더나 엔터티 본문이 있든 없든 항상 빈 줄(CRLF)로 끝남!
