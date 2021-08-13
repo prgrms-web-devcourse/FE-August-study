@@ -1,3 +1,4 @@
+해당 글은 [Link](https://velog.io/@minsgy/week2-CSR-vs-SSR-%EB%88%84%EA%B0%80-%EB%8D%94-%EC%A2%8B%EC%95%84)를 통해 확인 가능합니다.
 # 🙄 CSR? SSR?
 
 먼저 무엇인지 파악하기 전, 간단하게 명칭을 살펴보자.
