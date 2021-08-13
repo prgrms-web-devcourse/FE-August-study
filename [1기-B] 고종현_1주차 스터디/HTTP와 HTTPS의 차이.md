@@ -98,7 +98,7 @@ Response도 request와 마찬가지로 크게 3부분으로 구성되어 있다.
         API 개발을 하는 백앤드 개발자들이 싫어하는 코드.
 
 ### 2. Headers
-Response의 headers와 동일하다.
+Request의 headers와 동일하다.
     다만 response에서만 사용되는 header 값들이 있다.
     예를 들어, User-Agent 대신에 Server 헤더가 사용된다.
 
