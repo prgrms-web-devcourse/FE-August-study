@@ -103,10 +103,10 @@ Request의 headers와 동일하다.
     예를 들어, User-Agent 대신에 Server 헤더가 사용된다.
 
 ### 3. Body
-    Response의 body와 일반적으로 동일하다.
-    Request와 마찬가지로 모든 response가 body가 있지는 않다. 데이터를 전송할 필요가 없을경우 body가 비어있게 된다.
+Response의 body와 일반적으로 동일하다. Request와 마찬가지로 모든 response가 body가 있지는 않다. 데이터를 전송할 필요가 없을경우 body가 비어있게 된다.
 
-    - Response Example
+- Response Example
+
     ```
     HTTP/1.1 404 Not Found
 
