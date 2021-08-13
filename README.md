@@ -45,6 +45,7 @@
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
 - 1주차: [클로저](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
+- 2주차: [HTTP와 HTTPS의 차이](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/HTTP%EC%99%80%20HTTPS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 
 ## 권정희
 
