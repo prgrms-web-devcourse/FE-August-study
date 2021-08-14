@@ -34,7 +34,7 @@
 7. [브라우저 렌더링]([1기-B]김사휘/browser_rendering.md) | 김사휘
 
 # 🚀 2주차 무민팀 스터디
-1. RESTful API | 김찬민 
+1. [RESTful API]([1기-A]김찬민/cs_02_restAPI.md) | 김찬민 
 2. 대표적 HTTP 헤더의 종류와 사용예 | 🎸김정운
 3. | 김영후
 4. | 김정호
