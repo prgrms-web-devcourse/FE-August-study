@@ -31,6 +31,6 @@
 | 김홍중 | | | |
 | 김희진 | | | |
 | 나은찬 | | | |
-| 남명훈 | HTTP 1.1과 HTTP 2.0| HTTP 1.1과 HTTP 2.0의 차이 비교 | |
+| 남명훈 | HTTP 1.1과 HTTP 2.0| HTTP 1.1과 HTTP 2.0의 차이 비교 | [링크](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week2/DalLi%5DStudy/%5B1%EA%B8%B0-A%5D%EB%82%A8%EB%AA%85%ED%9B%88/HTTP%201.1%EA%B3%BC%20HTTP%202.0.md)|
 | 도가영 | | | |
 | 임효성 | | | |
