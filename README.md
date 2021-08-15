@@ -27,3 +27,9 @@
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%84%9C%EC%A7%84%ED%99%98_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
 - 1주차: [프로토타입](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%84%9C%EC%A7%84%ED%99%98_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
+
+## 신효정
+
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%8B%A0%ED%9A%A8%EC%A0%95)
+- 1주차: [setTimeout&setInterval](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%8B%A0%ED%9A%A8%EC%A0%95/setTimeout%26setInterval.md)
+- 2주차: [쿠키, 세션, 웹스토리지](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%8B%A0%ED%9A%A8%EC%A0%95/%EC%BF%A0%ED%82%A4%2C%EC%84%B8%EC%85%98%2C%20%EC%9B%B9%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80.md)
