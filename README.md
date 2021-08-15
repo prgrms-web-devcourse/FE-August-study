@@ -86,4 +86,4 @@
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B3%A0%EC%98%81%ED%9B%88_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
 - 1주차: [비동기와 동기](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B3%A0%EC%98%81%ED%9B%88_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/1%EC%A3%BC%EC%B0%A8_%EB%8F%99%EA%B8%B0%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0.md)
-- 2주차: [양방향암호화 vs 단방향암호화](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/HTTP%EC%99%80%20HTTPS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+- 2주차: [양방향암호화 vs 단방향암호화](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B3%A0%EC%98%81%ED%9B%88_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/2%EC%A3%BC%EC%B0%A8_%EC%96%91%EB%B0%A9%ED%96%A5_%EB%8B%A8%EB%B0%A9%ED%96%A5.MD)
