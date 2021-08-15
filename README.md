@@ -1,40 +1,27 @@
-<br/>
-<p align="middle" >
-  <img width="200px;" src="./src/images/prgms-logo.png"/>
-</p>
-<h2 align="middle">프로그래머스 웹 데브코스 Study</h2>
-<p align="middle">Today I Leared</p>
-<p align="middle">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
-  <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
-</p>
+# 🍫 21년 8월 개발기초 스터디
 
-<br/>
+## 양윤
 
-# 💻 프로그래머스 웹 데브코스 Study
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%20%EC%96%91%EC%9C%A4_%201%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
+- 1주차: [컴포넌트와 상태관리](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%20%EC%96%91%EC%9C%A4_%201%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80%20%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC.md)
 
-> 올바로 작동하지 않는다고 걱정하지 마라.
-> 모든 게 잘 되었다면, 내가 할 일이 없어진다.
->
-> Mosher’s Law of Software Engineering
+## 윤상준
 
-<br/>
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%EC%9C%A4%EC%83%81%EC%A4%80_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
+- 1주차: [호이스팅과 스코프](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%EC%9C%A4%EC%83%81%EC%A4%80_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%20%EA%B3%BC%20%EC%8A%A4%EC%BD%94%ED%94%84%20%EC%8A%A4%ED%84%B0%EB%94%94(8-6).md)
+- 2주차: [AJAX](https://velog.io/@alajillo/AJAX)
 
-## 📌 Study는 어떻게 하나요?
+## 윤승록
 
-프롱이와 백둥이가 모두 모인 Org입니다. Public으로 공개되어있습니다.    
-이 곳에서 한 달동안 함께 스터디하는 팀의 아티클을 공유해보아요!
+- [디렉토리](notion://www.notion.so/yoonnote/%5B1%EA%B8%B0-B%5D%20%EC%9C%A4%EC%8A%B9%EB%A1%9D_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
+- 1주차: [3-Way Handshake와 4-Way Handshake](notion://www.notion.so/yoonnote/%5B1%EA%B8%B0-B%5D%20%EC%9C%A4%EC%8A%B9%EB%A1%9D_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/TCP_3wayHandshake_4wayHandshake.md)
 
-## 🚀 Branch 이름은 어떻게 하나요?
+## 이경미
 
-- 브랜치명은 **[N주차/ㅇㅇ팀]개발기초 스터디**로 통일해 주세요!
-- 팀 브랜치는 각 팀에 하나씩만 생성합니다~
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%20%EC%9D%B4%EA%B2%BD%EB%AF%B8_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
+- 1주차: [프로세스와 스레드](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%20%EC%9D%B4%EA%B2%BD%EB%AF%B8_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%5BOS%5D%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 
+## 서진환
 
-## 👀 구성은 어떻게 하나요?
-
-- 포스팅 링크가 아닌 md 파일로 올려주세요!
-- 각 팀의 브랜치는 readme를 개성에 맞게 꾸며주세요.
-- 우리 팀 브랜치에 나의 아티클을 commit합니다. 다른 팀 브랜치에 commit 하지 않도록 유의합니다.
-- 단, readme에 각 구성원의 commit을 link하여 readme를 통해 각 팀원들의 아티클을 한 번에 파악할 수 있게 해 주세요~
-
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%84%9C%EC%A7%84%ED%99%98_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
+- 1주차: [프로토타입](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%84%9C%EC%A7%84%ED%99%98_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
