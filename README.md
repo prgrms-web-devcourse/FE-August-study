@@ -32,5 +32,5 @@
 | 김희진 | | | |
 | 나은찬 | | | |
 | 남명훈 | HTTP 1.1과 HTTP 2.0| HTTP 1.1과 HTTP 2.0의 차이 비교 | [링크](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week2/DalLi%5DStudy/%5B1%EA%B8%B0-A%5D%EB%82%A8%EB%AA%85%ED%9B%88/HTTP%201.1%EA%B3%BC%20HTTP%202.0.md)|
-| 도가영 | | | |
+| 도가영 | HTTPS와 SSL 인증서 | HTTPS의 개념과 SSL의 동작방식 | [링크](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week2/DalLi%5DStudy/%5B1%EA%B8%B0-A%5D%EB%8F%84%EA%B0%80%EC%98%81/HTTPS%EC%99%80%20SSL%EC%9D%B8%EC%A6%9D%EC%84%9C.md) |
 | 임효성 | | | |
