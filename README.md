@@ -31,6 +31,17 @@
 7. 동기와 비동기 [ 영훈 ]
 8. 클로저 [ 동진 ]
 
+# 🚀 21년 8월 론팀 개발 기초 2주차 스터디
+
+1. 프로세스 스케줄링 알고리즘(선점, 비선점) [ 다슬 ]
+2. 프로세스와 스레드 [ 민정 ]
+3. XSS, CSRF [ 푸름 ]
+4. HTTP와 HTTPS의 차이 [ 종현 ]
+5. GET과 POST의 차이 [ 정희 ]
+6. OSI 7계층 [ 동현 ]
+7. 3-way-handshake [ 동진 ]
+8. 양방향 암호화 VS 단방향 암호화 [ 영훈 ]
+
 ## 김다슬
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8B%A4%EC%8A%AC_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
@@ -75,3 +86,4 @@
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B3%A0%EC%98%81%ED%9B%88_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
 - 1주차: [비동기와 동기](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B3%A0%EC%98%81%ED%9B%88_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/1%EC%A3%BC%EC%B0%A8_%EB%8F%99%EA%B8%B0%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0.md)
+- 2주차: [양방향암호화 vs 단방향암호화](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/HTTP%EC%99%80%20HTTPS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
