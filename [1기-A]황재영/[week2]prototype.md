@@ -89,14 +89,14 @@
 이 `Object`라는 애는 **`OrdinaryObjectCreate` 라는 추상 연산을 반환**한다고 하네요.
 그리고 이 연산은 `ECMA-262`에서 다음과 같이 정의되어 있어요.
 
-9.1.12 **OrdinaryObjectCreate ( proto [ , additionalInternalSlotsList ] )**
-The abstract operation OrdinaryObjectCreate with **argument proto (an object or null)** is used **to specify the runtime creation of new ordinary objects.** The optional argument **additionalInternalSlotsList** is a List of the names of **additional internal slots that must be** **defined as part of the object, beyond [[Prototype]] and [[Extensible]].** If the list is not provided, a new empty List is used. This abstract operation performs the following steps:
-
-Let internalSlotsList be « [[Prototype]], [[Extensible]] ».
-If additionalInternalSlotsList is present, append each of its elements to internalSlotsList.
-Let O be ! MakeBasicObject(internalSlotsList).
-Set O.**[[Prototype]] to proto.**
-**Return O.**
+> 9.1.12 **OrdinaryObjectCreate ( proto [ , additionalInternalSlotsList ] )**
+> The abstract operation OrdinaryObjectCreate with **argument proto (an object or null)** is used **to specify the runtime creation of new ordinary objects.** The optional argument **additionalInternalSlotsList** is a List of the names of **additional internal slots that must be** **defined as part of the object, beyond [[Prototype]] and [[Extensible]].** If the list is not provided, a new empty List is used. This abstract operation performs the following steps:
+>
+> Let internalSlotsList be « [[Prototype]], [[Extensible]] ».
+> If additionalInternalSlotsList is present, append each of its elements to internalSlotsList.
+> Let O be ! MakeBasicObject(internalSlotsList).
+> Set O.**[[Prototype]] to proto.**
+> **Return O.**
 
 예... 다 알아들으셨죠?!
 
@@ -205,9 +205,9 @@ document.__proto__.__proto__.__proto__.__proto__.__proto__;
 
 또한 지금은 객체에 메서드를 직접 부여 가능한 **클래스와 같은 `syntactic sugar`한 도구들이 있으니, 이런 여러 사람에 의해 검증된 표준 문법들을 사용해보는 건 어떨까요?!**
 
-수정합니다. **사용자가 정의한 생성자 함수를 통해 실제로 프로토타입을 활용해도 좋습니다.**
-그렇지만 `Object`와 같이, **표준 객체를 건드리는 건 위험하니 최대한 자제**하라고 하네요.
-**오류의 주범이 될 수 있다...! 입니다 😂**
+> 수정합니다. **사용자가 정의한 생성자 함수를 통해 실제로 프로토타입을 활용해도 좋습니다.**
+> 그렇지만 `Object`와 같이, **표준 객체를 건드리는 건 위험하니 최대한 자제**하라고 하네요.
+> **오류의 주범이 될 수 있다...! 입니다 😂**
 
 ---
 

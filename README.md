@@ -60,7 +60,8 @@ git commit -m "[정윤호] docs: 1주차 발표자료 추가"
 
 ### 장윤지
 
-- [week1]
+- [week1] [CSS 전처리기 알아보기](./[1기-A]장윤지/[week1]CSS_Preprocessor.md)
+- [week2] [가비지 컬렉션](./[1기-A]장윤지/[week2]JavaScript_GarbageCollection.md)
 
 ### 조주영
 
