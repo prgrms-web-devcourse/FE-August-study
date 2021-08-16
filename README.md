@@ -44,8 +44,9 @@
 
 ## 김다슬
 
-- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8B%A4%EC%8A%AC_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
-- 1주차: [스코프](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8B%A4%EC%8A%AC_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%EC%8A%A4%EC%BD%94%ED%94%84.md)
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Ron/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8B%A4%EC%8A%AC)
+- 1주차: [스코프](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Ron/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8B%A4%EC%8A%AC/1%EC%A3%BC%EC%B0%A8_%EC%8A%A4%EC%BD%94%ED%94%84.md)
+- 2주차: [프로세스 스케줄링](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Ron/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8B%A4%EC%8A%AC/2%EC%A3%BC%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 
 ## 강푸름
 
