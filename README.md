@@ -89,6 +89,7 @@
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8F%99%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
 - 1주차: [메모리 모델](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8F%99%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%AA%A8%EB%8D%B8.md)
+- 2주차 : [OSI 7계층](https://kimbangg.tistory.com/298)
 
 ## 고영훈
 
