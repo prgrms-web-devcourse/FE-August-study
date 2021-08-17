@@ -29,18 +29,19 @@
 
 ## 🦍박민수
 
-- [디렉토리]`(개인 프로젝트 주소)`
-- 1주차: [발표 제목]`(발표 readme주소)`
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EB%AF%BC%EC%88%98)
+- 1주차: [발표 제목](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EB%AF%BC%EC%88%98/%5B1%EC%A3%BC%EC%B0%A8%5D%20Scope%26Closure.md)
 
 ## 박상우
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%83%81%EC%9A%B0)
 - 1주차: [실행 컨텍스트는 어떻게 코드를 관리할까?](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%83%81%EC%9A%B0/%5B1%EC%A3%BC%EC%B0%A8%5D%20%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
+- 2주차: [이터레이션 프로토콜의 필요성](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%83%81%EC%9A%B0)
 
 ## 박세림
 
-- [디렉토리]`(개인 프로젝트 주소)`
-- 1주차: [발표 제목]`(발표 readme주소)`
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy)
+- 1주차: [프로토타입](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%95%EC%84%B8%EB%A6%BC/%5B1%EC%A3%BC%EC%B0%A8%5D%20Prototype.md)
 
 ## 🍄박송이
 
@@ -61,8 +62,10 @@
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%A7%80%EC%98%81)
 - 1주차: [this의 4가지 판별 방식](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%A7%80%EC%98%81/%5B1%EC%A3%BC%EC%B0%A8%5D%20this%ED%8C%90%EB%B3%84%EB%B0%A9%EC%8B%9D.md)
+- 2주차 : [TDD](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%A7%80%EC%98%81/%5B2%EC%A3%BC%EC%B0%A8%5DTDD.md)
 
 ## 🐳 배준형
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%B0%EC%A4%80%ED%98%95)
 - 1주차: [콜백함수](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%B0%EC%A4%80%ED%98%95/%5B1%EC%A3%BC%EC%B0%A8%5D%20%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98.md)
+- 2주차: [XML, JSON](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%B0%EC%A4%80%ED%98%95/%5B2%EC%A3%BC%EC%B0%A8%5D%20XML%2C%20JSON.md)
