@@ -55,10 +55,11 @@
 - [디렉토리]`(개인 프로젝트 주소)`
 - 1주차: [발표 제목]`(발표 readme주소)`
 
-## 박정민
+## 💫박정민
 
-- [디렉토리]`(개인 프로젝트 주소)`
-- 1주차: [발표 제목]`(발표 readme주소)`
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%A0%95%EB%AF%BC)
+- 1주차: [가비지컬렉션](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%A0%95%EB%AF%BC/%5B1%EC%A3%BC%EC%B0%A8%5D%EA%B0%80%EB%B9%84%EC%A7%80%EC%BB%AC%EB%A0%89%EC%85%98.md)
+- 2주차: [제너레이터](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EC%A0%95%EB%AF%BC/%5B2%EC%A3%BC%EC%B0%A8%5D%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0.md)
 
 ## 🦔 박지영
 
