@@ -27,6 +27,7 @@
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%84%9C%EC%A7%84%ED%99%98_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
 - 1주차: [프로토타입](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%84%9C%EC%A7%84%ED%99%98_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
+- 2주차: [해쉬](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%84%9C%EC%A7%84%ED%99%98/%ED%95%B4%EC%8B%9C.md)
 
 ## 신효정
 
