@@ -20,7 +20,9 @@
 
 <br/>
 
-# 🚀 21년 8월 론팀 개발 기초 1주차 스터디
+# 🚀 21년 8월 론팀 스터디
+
+## 1주차
 
 1. 브라우저 렌더링[ 푸름 ]
 2. DOM 조작 [ 민정 ]
@@ -31,7 +33,7 @@
 7. 동기와 비동기 [ 영훈 ]
 8. 클로저 [ 동진 ]
 
-# 🚀 21년 8월 론팀 개발 기초 2주차 스터디
+## 2주차
 
 1. 프로세스 스케줄링 알고리즘(선점, 비선점) [ 다슬 ]
 2. 프로세스와 스레드 [ 민정 ]
@@ -41,6 +43,10 @@
 6. OSI 7계층 [ 동현 ]
 7. 3-way-handshake [ 동진 ]
 8. 양방향 암호화 VS 단방향 암호화 [ 영훈 ]
+
+## 3주차
+
+1. Promise와 async await 사용하려면? 예외처리하려면? feat. 자주하는 실수 [ 종현 ]
 
 ## 김다슬
 
@@ -56,9 +62,10 @@
 
 ## 고종현
 
-- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Ron/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84)
 - 1주차: [클로저](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
 - 2주차: [HTTP와 HTTPS의 차이](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/HTTP%EC%99%80%20HTTPS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+- 3주차: [Promise와 async await 사용하려면? 예외처리하려면? feat. 자주하는 실수 ](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/HTTP%EC%99%80%20HTTPS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 
 ## 권정희
 
