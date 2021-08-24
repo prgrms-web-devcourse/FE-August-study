@@ -14,9 +14,9 @@
 
 ## 윤승록
 
-- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%20%EC%9C%A4%EC%8A%B9%EB%A1%9D_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
-- 1주차: [3-Way Handshake와 4-Way Handshake](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%20%EC%9C%A4%EC%8A%B9%EB%A1%9D_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/TCP_3wayHandshake_4wayHandshake.md)
-- 2주차: [TCP 소켓]()
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%EC%9C%A4%EC%8A%B9%EB%A1%9D)
+- 1주차: [3-Way Handshake와 4-Way Handshake](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%EC%9C%A4%EC%8A%B9%EB%A1%9D/TCP_3wayHandshake_4wayHandshake.md)
+- 2주차: [TCP 소켓](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%EC%9C%A4%EC%8A%B9%EB%A1%9D/TCP_Socket.md)
 
 ## 이경미
 
