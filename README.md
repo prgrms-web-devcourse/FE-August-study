@@ -47,6 +47,7 @@
 ## 3주차
 
 1. Promise와 async await 사용하려면? 예외처리하려면? feat. 자주하는 실수 [ 종현 ]
+2. 비동기 통신 이해하기(XHR과 Fetch API) [ 다슬 ]
 
 ## 김다슬
 
