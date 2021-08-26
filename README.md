@@ -53,6 +53,7 @@
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Ron/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8B%A4%EC%8A%AC)
 - 1주차: [스코프](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Ron/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8B%A4%EC%8A%AC/1%EC%A3%BC%EC%B0%A8_%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - 2주차: [프로세스 스케줄링](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Ron/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8B%A4%EC%8A%AC/2%EC%A3%BC%EC%B0%A8_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
+- 3주차: [XHR과 Fetch API](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Ron/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8B%A4%EC%8A%AC/3%EC%A3%BC%EC%B0%A8_XHR%EA%B3%BC%20Fetch%20API.md)
 
 ## 강푸름
 
