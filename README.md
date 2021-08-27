@@ -32,6 +32,7 @@
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EB%AF%BC%EC%88%98)
 - 1주차: [Scope & Closure](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EB%AF%BC%EC%88%98/%5B1%EC%A3%BC%EC%B0%A8%5D%20Scope%26Closure.md)
 - 2주차: [CORS](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EB%AF%BC%EC%88%98/%5B2%EC%A3%BC%EC%B0%A8%5D%20CORS.md)
+- 3주차 : [비동기 HTTP 통신 종류](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-A%5D%EB%B0%95%EB%AF%BC%EC%88%98/%5B3%EC%A3%BC%EC%B0%A8%5D%20%EB%B9%84%EB%8F%99%EA%B8%B0%20HTTP%20%ED%86%B5%EC%8B%A0%20%EC%A2%85%EB%A5%98.md)
 
 ## 박상우
 
