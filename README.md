@@ -48,6 +48,11 @@
 
 1. Promise와 async await 사용하려면? 예외처리하려면? feat. 자주하는 실수 [ 종현 ]
 2. 비동기 통신 이해하기(XHR과 Fetch API) [ 다슬 ]
+3. 디자인패턴(빌더패턴) [ 영훈 ]
+4. 이벤트 위임(버블링, 캡쳐링) [ 푸름 ]
+5. DNS란? [ 동진 ]
+6. REST API [ 민정 ]
+7. 인터럽트 & 컨텍스트 스위칭 [ 정희 ]
 
 ## 김다슬
 
@@ -106,3 +111,4 @@
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B3%A0%EC%98%81%ED%9B%88_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
 - 1주차: [비동기와 동기](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B3%A0%EC%98%81%ED%9B%88_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/1%EC%A3%BC%EC%B0%A8_%EB%8F%99%EA%B8%B0%EC%99%80_%EB%B9%84%EB%8F%99%EA%B8%B0.md)
 - 2주차: [양방향암호화 vs 단방향암호화](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-A%5D%20%EA%B3%A0%EC%98%81%ED%9B%88_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/2%EC%A3%BC%EC%B0%A8_%EC%96%91%EB%B0%A9%ED%96%A5_%EB%8B%A8%EB%B0%A9%ED%96%A5.MD)
+- 3주차: [디자인패턴(빌더패턴)](https://raspy-emery-991.notion.site/efdd3c2c96b44685854cf22ee4db94a0)
