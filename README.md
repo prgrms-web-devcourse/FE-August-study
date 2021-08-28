@@ -39,7 +39,7 @@
 1. [RESTful API]([1기-A]김찬민/cs_02_restAPI.md) | 김찬민
 2. [대표적 HTTP 요청 헤더의 종류와 사용예]([1기-B]김정운/http_header/httpHeader.md) | 🎸김정운
 3. | 김영후
-4. | 김정호
+4. [MVC 패턴]([1기-B]김정호/MVC.md)| 김정호
 5. [OSI 7계층]([1기-A]김지영/2week/OSI-7-layers.md) | 김지영
 6. 프로세스와 스레드 | 김지은
 7. [네트워크 장비]([1기-B]김사휘/network_devices.md) | 김사휘
