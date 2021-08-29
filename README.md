@@ -94,6 +94,7 @@
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Ron%5DStudy/%5B1기-B%5D%20강동진_1주차%20스터디)
 - 1주차: [클로저](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1기-B%5D%20강동진_1주차%20스터디/1주차-클로저.md)
 - 2주차: [3-WayHandshake](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1기-B%5D%20강동진_1주차%20스터디/2주차-3WayHandshake.md)
+- 3주차: [DNS란?](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Ron/%5B1기-B%5D%20강동진/3주차-DNS란%3F.md)
 
 ## 김민정
 
