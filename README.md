@@ -66,6 +66,7 @@
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Ron/%5B1%EA%B8%B0-A%5D%20%EA%B0%95%ED%91%B8%EB%A6%84)
 - 1주차: [브라우저 렌더링](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Ron/%5B1%EA%B8%B0-A%5D%20%EA%B0%95%ED%91%B8%EB%A6%84/1%EC%A3%BC%EC%B0%A8_%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81.md)
 - 2주차: [XSS와 CSRF](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Ron/%5B1%EA%B8%B0-A%5D%20%EA%B0%95%ED%91%B8%EB%A6%84/2%EC%A3%BC%EC%B0%A8_XSS%EC%99%80CSRF.md)
+- 3주차: [이벤트 위임](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Ron/%5B1%EA%B8%B0-A%5D%20%EA%B0%95%ED%91%B8%EB%A6%84/3%EC%A3%BC%EC%B0%A8_%EC%9D%B4%EB%B2%A4%ED%8A%B8%EC%9C%84%EC%9E%84.md)
 
 ## 고종현
 
