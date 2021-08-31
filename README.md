@@ -26,6 +26,7 @@
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%95%EA%B7%9C%EB%9E%80)
 - 1주차: [정규표현식](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%95%EA%B7%9C%EB%9E%80/%5B1%EC%A3%BC%EC%B0%A8%5D%20%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
+- 2주차: [Symbol 데이터타입](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/GiDong%5DStudy/%5B1%EA%B8%B0-B%5D%EB%B0%95%EA%B7%9C%EB%9E%80/%5B2%EC%A3%BC%EC%B0%A8%5D%20Symbol%20%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)
 
 ## 🦍박민수
 
