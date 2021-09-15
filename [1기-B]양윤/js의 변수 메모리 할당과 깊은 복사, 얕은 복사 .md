@@ -1,0 +1,218 @@
+## 변수에 메모리 할당하기
+
+</br>
+
+### **변수가 만들어지는 과정**
+
+> ```js
+> const myNumber = 23;
+> ```
+
+![](https://images.velog.io/images/yooon26/post/2e984cff-64f9-42ac-b127-71f905367ee1/image.png)
+
+1. 변수의 고유식별자(===변수명) 생성
+2. 메모리에 주소 할당
+3. 생성한 주소에 값을 넣음
+4. 식별자에 메모리 주소 할당
+   </br>
+   </br>
+
+### 자바스크립트의 메모리 모델
+
+**콜스택** - 원시 타입으로 선언된 변수와 함수들의 메모리 공간
+**힙** - 참조 타입의 변수들의 메모리 공간
+![](https://images.velog.io/images/yooon26/post/668e90fd-da99-4e9e-9433-0c39c516276c/image.png)
+
+참조 타입의 변수 생성 과정
+
+- 선언된 변수가 참조 타입일 시 콜스택, 힙 메모리에 주소가 할당된다.
+- 힙의 메모리 주소가 콜 스택의 값으로 할당된다.
+- 힙 메모리는 동적으로 크기가 바뀐다. (배열을 상수로 선언 가능한 이유)
+
+</br>
+
+---
+
+</br>
+
+## 변수 값 변경하기
+
+원시 타입과 참조 타입 모두 값을 재할당 할 시 메모리 주소가 바뀐다.
+</br>
+
+### 원시 타입
+
+값이 변경되면 새로운 메모리 주소가 할당된다.
+
+> ```js
+> let myString = 'abc';
+> myString = 'abcd';
+> ```
+
+![](https://images.velog.io/images/yooon26/post/f684eb24-4ae2-4cb8-99df-52a58c266564/image.png)
+기존 값과 비교해 새로운 값일 시
+
+1. 메모리에 새로운 주소를 할당한다
+2. 값을 넣는다.
+3. 메모리 주소를 식별자에 할당한다.
+
+_식별자에 메모리 주소가 바뀌어 할당되어, 더 이상 참조할 수 없는 기존의 메모리는 가비지 콜렉터가 처리한다._
+
+#### const와 let
+
+**const** - 식별자에 메모리 주소 재할당 불가능
+**let** - 식별자에 메모리 주소 재할당 가능
+
+</br>
+
+### 참조 타입
+
+**기존의 참조 타입 값의 요소를 바꾸는 경우**
+메모리 주소가 변경되지 않는다.
+
+> ```js
+> let myArray = [];
+> ```
+
+![](https://images.velog.io/images/yooon26/post/dc90e3f7-d3d2-4e80-a3eb-8c4def0f34da/image.png)
+
+> ```js
+> myArray.push(1);
+> myArray.push(2);
+> myArray.push(3);
+> myArray.push(4);
+> myArray.push(5);
+> ```
+
+![](https://images.velog.io/images/yooon26/post/d3f51987-aa74-43fa-81d0-f48452de57cd/image.png)
+
+**새로운 참조 타입 값을 할당하는 경우**
+메모리 주소가 변경되어 식별자에 새로 할당된다.
+
+> ```js
+> myArray = ['a'];
+> ```
+
+![](https://images.velog.io/images/yooon26/post/358bea9e-7b73-476f-af4d-1c594bd50620/image.png)
+
+1. Call Stack에 새로운 메모리 주소가 할당된다.
+2. Heap에 새로운 메모리 주소가 할당되고 값이 넣어진다.
+3. 할당된 Heap의 메모리 주소를 callStack의 값으로 할당한다.
+4. 식별자에 callStack의 새로운 메모리 주소를 할당한다.
+
+_식별자에 메모리 주소가 바뀌어 할당되어, 더 이상 참조할 수 없는 기존의 메모리는 가비지 콜렉터가 처리한다_
+
+</br>
+
+---
+
+</br>
+
+## 변수 값 복사하기
+
+</br>
+
+### 얕은 복사
+
+사본을 만들어내지 않고 원본(메모리 주소)을 참조해, 복사한 척을 하는 것
+</br>
+
+**원시 타입의 얕은 복사**
+
+식별자에는 메모리 주소가 할당되어 **식별자 === 메모리 주소**이기 때문에
+newVar에는 myNumber과 같은 메모리 주소가 할당되고, 같은 값을 가리키게 된다.
+
+> ```js
+> let myNumber = 23;
+> let newVar = myNumber;
+> ```
+
+![](https://images.velog.io/images/yooon26/post/4dfaed0b-4e70-4d0e-8b2f-8e2b40d0274a/image.png)
+
+두 변수가 같은 메모리 주소를 가리키고 있지만, 새로운 값을 할당할 시
+새로운 메모리가 생겨나기 때문에 각자 다른 메모리 주소를 갖게 된다.
+
+> ```js
+> myNumber = 24;
+> //
+> console.log(newVar); // 23
+> console.log(myNumber); // 24
+> ```
+
+![](https://images.velog.io/images/yooon26/post/750376e5-66f5-4ecc-a6a2-aa0c1ffda81d/image.png)
+
+</br>
+
+**참조 타입의 얕은 복사**
+
+참조 변수를 다른 변수에 할당하면 두 변수 모두 같은 메모리 주소를 가리키게 된다.
+
+> ```js
+> const myArray = [1, 2, 3, 4, 5];
+> const array2 = myArray;
+> //
+> console.log(myArray); // [1,2,3,4,5]
+> console.log(array2); // [1,2,3,4,5]
+> ```
+
+![](https://images.velog.io/images/yooon26/post/70615541-595b-4bae-8880-4a0610023d3c/image.png)
+
+</br>
+
+그렇기에 둘 중 하나의 참조 변수를 통해서 값을 변경하게 되면 서로 같은 주소를 공유하므로 변경되는 값은 같아지게 된다.
+
+> ```js
+> array2[0] = 7;
+> console.log(myArray); // [7,2,3,4,5]
+> console.log(array2); // [7,2,3,4,5]
+> ```
+
+![](https://images.velog.io/images/yooon26/post/e5c4ff43-34ca-4266-9c2c-cfdc5bd84fd2/image.png)
+
+</br>
+
+### 깊은 복사
+
+완벽하게 원본과 사본을 나눠 복사하는 방법.
+참조 타입 값의 껍데기 뿐아니라 안의 요소 값들까지 복사하는 것.
+
+#### 1. 대표 객체는 복사하지만 하위 객체는 참조만 하는 방법
+
+- Object.assign() 사용
+- spread 연산자 사용
+  ![](https://images.velog.io/images/yooon26/post/4d2d2fc4-3046-44e1-9951-f311122fa22b/image.png)
+
+> ```js
+> let grandeur = { engine: 'gdi', cc: 3000 };
+> let aa = { name: 'kildong', age: 20, car: grandeur };
+> let bb = Object.assign({}, aa); // Object Deep Copy, 하위Object Shallow Copy
+> //
+> console.log(Object.is(aa, bb)); // false
+> console.log(Object.is(aa.car, bb.car)); // true
+> ```
+
+</br>
+
+#### 2. 대표 객체 뿐만 아니라 하위 객체까지 복사하는 방법
+
+- Json 내장 함수 사용
+  복사할 참조 변수를 stringify한 것을 다시 parse한다.
+  ![](https://images.velog.io/images/yooon26/post/5d239637-cade-42d9-ad52-1221ce35fc4e/image.png)
+
+> ```js
+> let grandeur = { engine: 'gdi', cc: 3000 };
+> let aa = { name: 'kildong', age: 20, car: grandeur };
+> let bb = JSON.parse(JSON.stringify(aa)); // Object Deep Copy, 하위Object Deep Copy
+> //
+> console.log(Object.is(aa, bb)); // false
+> console.log(Object.is(aa.car, bb.car)); // false
+> ```
+
+</br>
+</br>
+</br>
+
+[출처](https://junwoo45.github.io/2019-11-04-memory_model/)
+[출처](https://bbaktaeho-95.tistory.com/37)
+[출처](https://wonit.tistory.com/253)
+[출처](https://m.blog.naver.com/wideeyed/221789258087)
