@@ -5,6 +5,7 @@
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%EC%96%91%EC%9C%A4)
 - 1주차: [컴포넌트와 상태관리](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%EC%96%91%EC%9C%A4/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80%20%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC.md)
 - 2주차: [콜백 함수와 promise](https://velog.io/@yooon26/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC1-%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98%EC%99%80-Promise%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%82%AC%EC%9A%A9%EB%B2%95)
+- 3주차 [js의 변수 메모리 할당과 얕은 복사/깊은 복사](https://velog.io/@yooon26/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC)
 
 ## 윤상준
 
