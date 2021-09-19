@@ -54,6 +54,10 @@
 6. REST API [ 민정 ]
 7. 인터럽트 & 컨텍스트 스위칭 [ 정희 ]
 
+## 7주차
+
+1. JavaScript에서 this란? [ 종현 ]
+
 ## 김다슬
 
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Ron/%5B1%EA%B8%B0-B%5D%20%EA%B9%80%EB%8B%A4%EC%8A%AC)
@@ -74,6 +78,7 @@
 - 1주차: [클로저](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%81%B4%EB%A1%9C%EC%A0%80.md)
 - 2주차: [HTTP와 HTTPS의 차이](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/HTTP%EC%99%80%20HTTPS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - 3주차: [Promise와 async await 사용하려면? 예외처리하려면? feat. 자주하는 실수 ](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Ron%5DStudy/%5B1%EA%B8%B0-B%5D%20%EA%B3%A0%EC%A2%85%ED%98%84_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/HTTP%EC%99%80%20HTTPS%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
+- 7주차: [JavaScript에서 this란?](https://velog.io/@manudeli/JavaScript%EC%97%90%EC%84%9C-this%EB%9E%80)
 
 ## 권정희
 
