@@ -12,6 +12,8 @@
 - [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%EC%9C%A4%EC%83%81%EC%A4%80)
 - 1주차: [호이스팅과 스코프](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%EC%9C%A4%EC%83%81%EC%A4%80/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%20%EA%B3%BC%20%EC%8A%A4%EC%BD%94%ED%94%84%201%EC%A3%BC%EC%B0%A8%EC%8A%A4%ED%84%B0%EB%94%94.md)
 - 2주차: [AJAX](https://velog.io/@alajillo/AJAX)
+- 3주차: [브라우저 렌더링 과정](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%EC%9C%A4%EC%83%81%EC%A4%80/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%A0%8C%EB%8D%94%EB%A7%81%EA%B3%BC%EC%A0%95%203%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94.md)
+- 6주차: [call,apply,bind는 뭘까](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%EC%9C%A4%EC%83%81%EC%A4%80/call%2Capply%2Cbind%EB%8A%94%20%EB%AD%98%EA%B9%8C%206%EC%A3%BC%EC%B0%A8%EC%8A%A4%ED%84%B0%EB%94%94.md)
 
 ## 윤승록
 
